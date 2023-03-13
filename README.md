@@ -1,4 +1,4 @@
-# tmc-free-react-admin-template
+# tmc-react-admin-template
 
 A React admin template that contains plenty of ready-to-use MUI components to help you quickly build more professional, flexible, and beautiful front-end pages.
 
