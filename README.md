@@ -15,7 +15,7 @@ A React admin template that contains plenty of ready-to-use MUI components to he
 - Dark/Light Mode support
 - Change Color Theme
 - LTR/RTL layouts support
-- i18n support
+- I18n support
 - ApexChart
 - WysiwygEditor
 - Fully responsive
@@ -26,7 +26,7 @@ A React admin template that contains plenty of ready-to-use MUI components to he
 - Statistics Dashboard 
 - Mail
 - Blog
-- Kaban
+- Kanban
 - Chat 
 - Products
 - Orders
